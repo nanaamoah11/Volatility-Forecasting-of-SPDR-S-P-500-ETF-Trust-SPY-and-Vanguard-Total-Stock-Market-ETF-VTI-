@@ -19,7 +19,7 @@ The data spans a specific timeframe, providing daily price observations for SPY 
 ### Methodology
 We utilize garch model to forecast the volatility of SPY and VTI ETFs. Graph models leverage the relationships between various data points to predict future volatility levels accurately.
 
-## Usage
+### Usage
 Clone the repository to your local machine.
 Navigate to the project directory.
 Run the main Python script.
